@@ -1,3 +1,3 @@
 #!/bin/bash
-echo “username: Ibraev Nurdaulet!”
-echo “userid: <ID>”
+echo "username: Ibraev Nurdaulet!"
+echo "userid: <ID>"
