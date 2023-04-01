@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "username: Ibraev Nurdaulet!"
 echo "userid: <ID>"
-echo "777"
+echo "560062448"
